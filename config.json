@@ -19,6 +19,7 @@
 "extra_js": [],
 "notifications_enabled": true,
 "gcmpn": "694767596569",
+"demo_sites": [{"key": "student", "url": "http://school.demo.moodle.net", "username": "student", "password": "moodle"}, {"key": "teacher", "url": "http://school.demo.moodle.net", "username": "teacher", "password": "moodle"}, {"key": "cva", "url": "http://mm.cvaconsulting.com/moodle", "username": "student", "password": "student"}],
 "siteurl": "https://www.ssec.org.in/moodle28/",
 "reportbugmail": "admin@ssec.org.in"
 }
