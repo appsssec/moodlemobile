@@ -8,7 +8,7 @@
 "plugins" : ["notifications", "messages", "upload", "events", "myfiles", "contents", "participants", "grades","addcontact", "addnote", "sendmessage", "forum", "label", "url", "page", "resource"],
 "wsservice" : "moodle_mobile_app",
 "wsextservice" : "local_mobile",
-"presets" : {"url": "https://ssec.org.in/moodle28/", "username": ""},
+"presets" : {"url": "http://hsc.ssec.org.in/moodle30/", "username": ""},
 "sync_ws_on" : true,
 "sync_css_on" : true,
 "sync_cron": 300000,
@@ -20,6 +20,6 @@
 "notifications_enabled": true,
 "gcmpn": "694767596569",
 "demo_sites": [],
-"siteurl": "https://www.ssec.org.in/moodle28/",
+"siteurl": "http://hsc.ssec.org.in/moodle30/",
 "reportbugmail": "admin@ssec.org.in"
 }
